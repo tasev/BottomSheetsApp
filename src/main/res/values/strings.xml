@@ -2,6 +2,6 @@
     <string name="app_name">BottomSheetMap</string>
 
     <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">
-        AIzaSyD_Qljj2JruINdGizS6OBpwa7R1lPKBw6s
+        --KEY--
     </string>
 </resources>
